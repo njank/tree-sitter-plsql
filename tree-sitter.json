@@ -1,0 +1,15 @@
+{
+  "grammars": [
+    {
+      "name": "plsql",
+      "scope": "source.plsql",
+      "file-types": ["pks", "pkb", "prc", "fct", "tps", "tpb", "trg"]
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "PL/SQL grammar for tree-sitter",
+    "links": { "repository": "https://github.com/njank/tree-sitter-plsql" }
+  }
+}
